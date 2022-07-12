@@ -7,7 +7,7 @@ go 1.18
 require (
 	github.com/disgoorg/disgo v0.13.2
 	github.com/disgoorg/log v1.2.0
-	golang.org/x/text v0.3.2
+	golang.org/x/text v0.3.7
 )
 
 require (
